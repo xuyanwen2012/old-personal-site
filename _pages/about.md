@@ -15,13 +15,13 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. Student in Computer Science and Engineering at the University of California, Santa Cruz (UCSC), advised by [Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/) since Spring 2021. 
+I am a Ph.D. Student in Computer Science and Engineering at the University of California, Santa Cruz (UCSC), advised by [Tyler Sorensen](https://users.soe.ucsc.edu/~tsorensen/) since Spring 2021. My research interests are heterogeneous computing, programming languages, and compiler techniques. 
 
-My research interests are heterogeneous computing, programming languages, and compiler techniques. In particular, I am working on HW/SW co-design for sparse applications, such as accelerating sparse tree applications on heterogeneous systems. Furthermore, I am interested in compiler techniques that automate this process; and also plan to develop novel programming models for sparse data structures as next steps.  
+In particular, I am working on HW/SW co-design for sparse applications, such as accelerating sparse tree applications on heterogeneous systems. Furthermore, I am interested in compiler techniques that automate this process; and also plan to develop novel programming models for sparse data structures as next steps.  
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
